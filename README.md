@@ -270,11 +270,7 @@ Jenkins Email Extension Plugin can be configured to send notifications on
 - GitHub Actions Workflow
 - GitHub Repository
 - 
-![GitHub Repository](screenshot/succesfull build.png)
-![GitHub Repository](screenshot/pipeline stage view.png)
-![GitHub Repository](screenshot/Github webook configured.png)
-![GitHub Repository](screenshot/build Console output.png)
-
-
----
-
+![Successful Build](screenshot/succesfull%20build.png)
+![Jenkins Pipeline Stage View](screenshot/pipeline%20stage%20view.png)
+![GitHub Webhook Configured](screenshot/Github%20webook%20configured.png)
+![Jenkins Build Console Output](screenshot/build%20Console%20output.png)
